@@ -189,7 +189,7 @@ main() {
 	    trap stop EXIT
 
 	    local CurrentUrl=""
-	    local AltUrl="https://hackernoon.com"
+	    local AltUrl="https://www.reddit.com"
 
 	    local ThreadCount="0"
 
